@@ -22,7 +22,7 @@
 [<img align="left" alt="Kadibia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/Kadibiaz
-[youtube]: https://youtube.com/thetechx7
+[youtube]: https://youtube.com/@thetechx7?si=5CZYiIOo9-7TKnwj
 [linkedin]: https://linkedin.com/in/kadibia
 <!--
 **kadibia/kadibia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
