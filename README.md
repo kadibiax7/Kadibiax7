@@ -3,7 +3,7 @@
  
 <h2>🔭 Cybersecurity Projects:</h2>
 
-  - [Kali Linux Home lab Installation on Windows 11](https://github.com/kadibiax7/VirtualBox-Kali-Linux-Home-Setup-on-Windows-11X)
+  - [Kali Linux Home lab Installation on Windows 11](https://github.com/kadibiax7/VirtualBox-Kali-Linux-Home-Setup-on-Windows-11)
   - [Active Directory Home Lab](https://github.com/kadibiax7/Virtuetup-on-Windows-11X)
 
 <h2>👨‍💻 Certifications </h2>
