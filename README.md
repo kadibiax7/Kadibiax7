@@ -13,7 +13,10 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
+- [Kali Linux Home lab Installation on Windows 11](https://youtu.be/Z-F_v1k)
+
 - [Active Directory Home Lab](https://www.youtube.com/watch?v=a8_s)
+
 
 
 <h2> 🤳 Connect with me:</h2>
