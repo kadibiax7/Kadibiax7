@@ -1,5 +1,8 @@
 <h1>Hi, I'm Samue!  
   <a href="">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@thetechx7">YouTuber</a></h1>
+
+<h2>About</h2>
+As a cybersecurity professional with skills in network security, vulnerability scanning, and SIEM tools, I leverage Python scripting and analytical problem-solving to proactively detect threats. I am passionate about threat intelligence and stopping attacks before they compromise critical infrastructure. My commitment to data privacy and ethical hacking aligns with organizations seeking to harden defenses through transparency and proactive risk mitigations.
  
 <h2>🔭 Cybersecurity Projects:</h2>
 
