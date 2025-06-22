@@ -4,7 +4,7 @@
 <h2>🔭 Cybersecurity Projects:</h2>
 
   - [Kali Linux Home lab Installation on Windows 11](https://github.com/kadibiax7/VirtualBox-Kali-Linux-Home-Setup-on-Windows-11)
-  - [Install Windows Server 2022 on Virtual Box | Windows Server 2022](https://github.com/kadibiax7/Install-Windows-Server-2022-on-Virtual-Box-Windows-Server-2022)
+  - [Installing Windows Server 2022 on Virtual Box](https://github.com/kadibiax7/Install-Windows-Server-2022-on-Virtual-Box-Windows-Server-2022)
   - [Active Directory Home Lab](https://github.com/kadibiax7/Virtuetup-on-Windows-11X)
 
 <h2>👨‍💻 Certifications </h2>
