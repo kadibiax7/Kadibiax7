@@ -1,4 +1,4 @@
-<h1>Hi, I'm Samue!  
+<h1>Hi, I'm Chikadibia Samue!  
   <a href="">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@thetechx7">YouTuber</a></h1>
 
 <h2>About</h2>
