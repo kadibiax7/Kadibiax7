@@ -14,6 +14,9 @@ As a cybersecurity professional with skills in network security, vulnerability s
 
   - [CompTIA Security+](https://drive.google.com/file/d/1YG4u6DPIIBzut5It2KNXzOka3YfDY0UU/view)
   - [Cisco Networking Basics](https://drive.google.com/file/d/1aLJeGwLZi6BC0-UCzMKdxuFga2CbWXff/view?usp=drivesdk)
+  - [IBM Cybersecurity architecture](https://coursera.org/verify/OIV92BUFXVWK)
+  - [AWS for Developers: Identity Access Management (IAM)](https://www.linkedin.com/learning/certificates/459d63e02e2c8ca5100f68fa43ff3df73fb1590162b96fe902f7a38a62543d8e)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
