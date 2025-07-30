@@ -13,6 +13,7 @@ As a cybersecurity professional with skills in network security, vulnerability s
 <h2>👨‍💻 Certifications </h2>
 
   - [CompTIA Security+](https://drive.google.com/file/d/1YG4u6DPIIBzut5It2KNXzOka3YfDY0UU/view)
+  - [Cisco Networking Basics](https://drive.google.com/file/d/1aLJeGwLZi6BC0-UCzMKdxuFga2CbWXff/view?usp=drivesdk)
 
 <h2>📺 Popular YouTube Videos</h2>
 
