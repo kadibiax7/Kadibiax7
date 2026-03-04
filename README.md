@@ -1,10 +1,9 @@
-<h1>Hi, I'm Chikadibia Samue!  
-  <a href="">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@thetechx7">YouTuber</a></h1>
+<h1>Hi, I'm Chikadibia  
 
-<h2>About</h2>
-As a cybersecurity professional with skills in network security, vulnerability scanning, and SIEM tools, I leverage Python scripting and analytical problem-solving to proactively detect threats. I am passionate about threat intelligence and stopping attacks before they compromise critical infrastructure. My commitment to data privacy and ethical hacking aligns with organizations seeking to harden defenses through transparency and proactive risk mitigations.
+<h2></h2>
+ <a href="">Cybersecurity Professional | Architect </a> | <a href="https://www.youtube.com/@thetechx7">YouTuber</a></h1>
  
-<h2>🔭 Cybersecurity Projects:</h2>
+<h2>🔭 Projects:</h2>
 
   - [Kali Linux Home lab Installation on Windows 11](https://github.com/kadibiax7/VirtualBox-Kali-Linux-Home-Setup-on-Windows-11)
   - [Installing Windows Server 2022 on Virtual Box](https://github.com/kadibiax7/Install-Windows-Server-2022-on-Virtual-Box-Windows-Server-2022)
