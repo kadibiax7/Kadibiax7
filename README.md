@@ -1,7 +1,7 @@
 <h1>Hi, I'm Chikadibia  
 
 <h2></h2>
- <a href=""> Cybersecurity Professional | Architect </a> | <a href="https://www.youtube.com/@thetechx7">YouTuber</a></h1>
+ <a href=""> Cybersecurity Professional | Architect  | <a href="https://www.youtube.com/@thetechx7">YouTuber</a></h1>
  
 <h2>🔭 Projects:</h2>
 
