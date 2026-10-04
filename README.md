@@ -1,5 +1,5 @@
-# Kadibiax7
-
+# 💫 About Me:
+## 👋 Hi, I'm Samuel 🛡️<br><br>I'm a cybersecurity professional with an M.S. in Cybersecurity and a CompTIA Security+ certification. I love finding weak spots, protecting systems, and turning security ideas into real, hands-on practice ✨<br><br>## 🚀 What I'm focused on<br>- Building SOC analyst skills: monitoring, detection, and response<br>- Learning Splunk (working toward Splunk Core Certified User)<br>- Hands-on practice in IAM, GRC, and network hardening<br>- Learning by doing: real labs, real problems, real growth 💻<br><br>## 🧠 What I believe<br>- Security isn't just tools. It's about thinking like an attacker and building like a defender.<br>- Good security should protect people without getting in their way.<br><br>## 🎯 Goals<br>- Land a SOC analyst or IT operations role<br>- Keep earning certifications and sharpening my skills<br>- Build and share projects that show my work<br>- Grow into a trusted security professional 🔐🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://youtube.com/@thetechx7?si=5CZYiIOo9-7TKnwj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/Kadibiaz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@thetechx7?si=5CZYiIOo9-7TKnwj) 
