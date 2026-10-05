@@ -1,5 +1,7 @@
 <div>
 
+<img align="right" src="profile.png" width="200" alt="Chikadibia">
+
 # Chikadibia
 
 Cybersecurity professional with an M.S. in Cybersecurity and CompTIA Security+ certification. Building toward SOC analyst work through hands-on labs in network security assessment, Active Directory, and SIEM tooling. Background in IT operations with experience across NIST-aligned data handling, chain of custody, and HIPAA-regulated environments.
@@ -39,6 +41,8 @@ Cybersecurity professional with an M.S. in Cybersecurity and CompTIA Security+ c
 <a href="https://www.youtube.com/@thetechx7">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
+<a href="https://twitter.com/Kadibiaz">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
 
 </div>
-
