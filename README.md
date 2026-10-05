@@ -7,6 +7,7 @@ Cybersecurity professional with an M.S. in Cybersecurity and CompTIA Security+ c
 
 # 🎓 Certifications
 <img src="https://img.shields.io/badge/CompTIA%20Security%2B-EA1B2D?style=for-the-badge&logo=comptia&logoColor=white">
+<img src="https://img.shields.io/badge/HIPAA%20Certified-0E7C3E?style=for-the-badge&logoColor=white">
 <br><br>
 *Currently pursuing: Splunk Core Certified User*
 <br><br>
@@ -35,5 +36,9 @@ Cybersecurity professional with an M.S. in Cybersecurity and CompTIA Security+ c
 <a href="https://www.linkedin.com/in/kadibia/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a href="https://www.youtube.com/@thetechx7">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
 
 </div>
+
