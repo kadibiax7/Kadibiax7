@@ -32,7 +32,7 @@ Currently pursuing: Splunk Core Certified User
 
 | Area | Project | Focus |
 | ---- | ------- | ----- |
-| 🛒 **E-Commerce** | [Kadibia - Women's Activewear Storefront](https://github.com/kadibiax7/kadibia-site-) | HTML/CSS/JS · Stripe · GitHub Pages |
+| 🛒 **E-Commerce** | [Gekian Boutique — Womenswear Storefront](https://github.com/kadibiax7/gekian-boutique) | Next.js · TypeScript · Tailwind CSS · Firebase |
 
 <br><br>
 
