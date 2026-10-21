@@ -25,7 +25,7 @@ Currently pursuing: Splunk Core Certified User
 | 🖥️ **Active Directory** | [Active Directory Lab](https://github.com/kadibiax7/ActiveDirectoryLab-) | AD · Windows Server · Lab Environment |
 | 🐧 **Linux & Tooling** | [Vim, Linux & SSH Cheat Sheet for Cybersecurity Learners](https://github.com/kadibiax7/Vim-Linux-SSH-Cheat-Sheet-for-Cybersecurity-Learners) | Linux · Vim · SSH |
 | 💻 **Virtualization** | [Kali Linux on VirtualBox (Windows 11)](https://github.com/kadibiax7/VirtualBox-Kali-Linux-Home-Setup-on-Windows-11) | VirtualBox · Kali Linux · Lab Setup |
-| 🪟 **Windows Server** | [Windows Server 2022 on VirtualBox](https://github.com/kadibiax7/Install-Windows-Server-2022-on-Virtual-Box-Windows-Server-2022) | Windows Server 2022 · Virtualization |
+| 🪟 **Windows Server** | [Windows Server 2022 on VirtualBox (In Progress)](https://github.com/kadibiax7/Install-Windows-Server-2022-on-Virtual-Box-Windows-Server-2022) | Windows Server 2022 · Virtualization |
 
 <br><br>
 
