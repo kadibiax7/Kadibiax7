@@ -20,6 +20,7 @@ Currently pursuing: Splunk Core Certified User
 
 | Area | Project | Focus |
 | ---- | ------- | ----- |
+| 🛡️ **SOC / SIEM Monitoring** | [Home SOC Security Monitoring with Splunk (In Progress)](https://github.com/kadibiax7/Splunk-home-SOC-lab) | Splunk Enterprise · Windows 11 Security Logs · SPL · Authentication Monitoring |
 | 🔍 **Security Assessment** | [Home Network Security Assessment with Nmap](https://github.com/kadibiax7/Home-Network-Security-Assessment-Nmap-) | Nmap · Network Scanning · Home Lab |
 | 🖥️ **Active Directory** | [Active Directory Lab](https://github.com/kadibiax7/ActiveDirectoryLab-) | AD · Windows Server · Lab Environment |
 | 🐧 **Linux & Tooling** | [Vim, Linux & SSH Cheat Sheet for Cybersecurity Learners](https://github.com/kadibiax7/Vim-Linux-SSH-Cheat-Sheet-for-Cybersecurity-Learners) | Linux · Vim · SSH |
