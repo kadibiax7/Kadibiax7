@@ -1,63 +1,49 @@
-<div>
-
 # Chikadibia
 
 Cybersecurity professional with an M.S. in Cybersecurity and CompTIA Security+ certification. Building toward SOC analyst work through hands-on labs in network security assessment, Active Directory, and SIEM tooling. Background in IT operations with experience across NIST-aligned data handling, chain of custody, and HIPAA-regulated environments.
-<br><br>
 
-# 🎓 Certifications
-<img src="https://img.shields.io/badge/CompTIA%20Security%2B-EA1B2D?style=for-the-badge&logo=comptia&logoColor=white">
-<img src="https://img.shields.io/badge/HIPAA%20Certified-0E7C3E?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Networking%20Basics%20(Cisco)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
-<img src="https://img.shields.io/badge/IBM%20Cybersecurity%20Architecture-0530AD?style=for-the-badge&logo=ibm&logoColor=white">
-<img src="https://img.shields.io/badge/AWS%20Identity%20%26%20Access%20Management-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Google%20Foundations%20of%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white">
-<br><br>
-Currently pursuing: Splunk Core Certified User
-<br><br>
+---
 
-# What I Work On
+## 🎓 Certifications & Training
 
-I build hands-on labs to develop practical cybersecurity and IT skills:
+**Certification:** CompTIA Security+
 
-- **Security monitoring:** Practicing Splunk searches and authentication log analysis in my [home SOC lab](https://github.com/kadibiax7/Splunk-home-SOC-lab) (in progress).
-- **Network security:** Using Nmap to discover devices and identify open ports in my [home network assessment lab](https://github.com/kadibiax7/Home-Network-Security-Assessment-Nmap-).
-- **Linux and SSH:** Practicing command-line tools and documenting useful commands in my [Linux, Vim, and SSH reference](https://github.com/kadibiax7/Vim-Linux-SSH-Cheat-Sheet-for-Cybersecurity-Learners).
-- **Virtual lab environments:** Setting up [Kali Linux](https://github.com/kadibiax7/VirtualBox-Kali-Linux-Home-Setup-on-Windows-11) and [Windows Server 2022](https://github.com/kadibiax7/Install-Windows-Server-2022-on-Virtual-Box-Windows-Server-2022) in VirtualBox, with the Windows Server lab in progress.
-- **Web development:** Building the [Gekian Boutique storefront](https://github.com/kadibiax7/gekian-boutique) with Next.js, TypeScript, and Tailwind CSS.
+**Additional training:** HIPAA · Cisco Networking Basics · IBM Cybersecurity Architecture · AWS Identity & Access Management · Google Foundations of Cybersecurity
 
-<br><br>
+**Currently pursuing:** Splunk Core Certified User
 
-# 🛡️ Cybersecurity
+---
 
-| Area | Project | Focus |
-| ---- | ------- | ----- |
-| 🛡️ **SOC / SIEM Monitoring** | [Home SOC Security Monitoring with Splunk (In Progress)](https://github.com/kadibiax7/Splunk-home-SOC-lab) | Splunk Enterprise · Windows 11 Security Logs · SPL · Authentication Monitoring |
-| 🔍 **Security Assessment** | [Home Network Security Assessment with Nmap](https://github.com/kadibiax7/Home-Network-Security-Assessment-Nmap-) | Nmap · Network Scanning · Home Lab |
-| 🐧 **Linux & Tooling** | [Vim, Linux & SSH Cheat Sheet for Cybersecurity Learners](https://github.com/kadibiax7/Vim-Linux-SSH-Cheat-Sheet-for-Cybersecurity-Learners) | Linux · Vim · SSH |
-| 💻 **Virtualization** | [Kali Linux on VirtualBox (Windows 11)](https://github.com/kadibiax7/VirtualBox-Kali-Linux-Home-Setup-on-Windows-11) | VirtualBox · Kali Linux · Lab Setup |
-| 🪟 **Windows Server** | [Windows Server 2022 on VirtualBox (In Progress)](https://github.com/kadibiax7/Install-Windows-Server-2022-on-Virtual-Box-Windows-Server-2022) | Windows Server 2022 · Virtualization |
+## 🔧 What I Work On
 
-<br><br>
+**Security Monitoring** — Hands-on Splunk practice, SPL searches, Windows security logs, and authentication monitoring in my home SOC lab.
 
-# 💻 Development
+**Network Security Assessment** — Nmap scanning, device discovery, and identifying open ports in my home network lab.
 
-| Area | Project | Focus |
-| ---- | ------- | ----- |
-| 🛒 **E-Commerce** | [Gekian Boutique — Womenswear Storefront](https://github.com/kadibiax7/gekian-boutique) | Next.js · TypeScript · Tailwind CSS · Firebase |
+**Linux & SSH** — Command-line practice, Linux tools, Vim, and documenting useful SSH commands.
 
-<br><br>
+**Virtual Lab Environments** — Setting up Kali Linux and Windows Server 2022 in VirtualBox to support hands-on learning.
 
-# 🌐 Connect
-<a href="https://www.linkedin.com/in/kadibia/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.youtube.com/@thetechx7">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-<a href="https://twitter.com/Kadibiaz">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-</a>
+**Web Development** — Building the Gekian Boutique storefront with Next.js, TypeScript, Tailwind CSS, and Firebase.
 
-</div>
+---
 
+## 📂 Projects
+
+### Cybersecurity & IT
+
+- **[Home SOC Security Monitoring with Splunk](https://github.com/kadibiax7/Splunk-home-SOC-lab)** — Splunk Enterprise, Windows 11 security logs, SPL, and authentication monitoring. *In progress.*
+- **[Home Network Security Assessment with Nmap](https://github.com/kadibiax7/Home-Network-Security-Assessment-Nmap-)** — Network scanning and home lab assessment.
+- **[Vim, Linux & SSH Cheat Sheet](https://github.com/kadibiax7/Vim-Linux-SSH-Cheat-Sheet-for-Cybersecurity-Learners)** — A command reference for cybersecurity learners.
+- **[Kali Linux on VirtualBox](https://github.com/kadibiax7/VirtualBox-Kali-Linux-Home-Setup-on-Windows-11)** — Virtual lab setup on Windows 11.
+- **[Windows Server 2022 on VirtualBox](https://github.com/kadibiax7/Install-Windows-Server-2022-on-Virtual-Box-Windows-Server-2022)** — Windows Server lab setup. *In progress.*
+
+### Development
+
+- **[Gekian Boutique](https://github.com/kadibiax7/gekian-boutique)** — Womenswear storefront built with Next.js, TypeScript, Tailwind CSS, and Firebase.
+
+---
+
+## 🌐 Connect
+
+[LinkedIn](https://www.linkedin.com/in/kadibia/) · [YouTube](https://www.youtube.com/@thetechx7) · [X](https://twitter.com/Kadibiaz)
