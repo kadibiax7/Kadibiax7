@@ -38,6 +38,9 @@ Documented virtual machine configuration and Windows Server 2022 installation th
 # 💻 Development
 
 ### [Gekian Boutique — Womenswear Storefront](https://github.com/kadibiax7/gekian-boutique) — In Development
+
+**[Live website](https://gekian-boutique--gekain.us-central1.hosted.app)** · [Source code](https://github.com/kadibiax7/gekian-boutique)
+
 A storefront project using Next.js, TypeScript, Tailwind CSS, and Firebase. The README describes product browsing, filtering, product detail pages, and a local shopping bag, with ongoing Firestore catalog integration. Checkout, ordering, authentication, and inventory reconciliation remain unimplemented.
 
 <br><br>
