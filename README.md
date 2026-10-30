@@ -16,6 +16,18 @@ Cybersecurity professional with an M.S. in Cybersecurity and CompTIA Security+ c
 Currently pursuing: Splunk Core Certified User
 <br><br>
 
+# What I Work On
+
+I build hands-on labs to develop practical cybersecurity and IT skills:
+
+- **Security monitoring:** Practicing Splunk searches and authentication log analysis in my [home SOC lab](https://github.com/kadibiax7/Splunk-home-SOC-lab) (in progress).
+- **Network security:** Using Nmap to discover devices and identify open ports in my [home network assessment lab](https://github.com/kadibiax7/Home-Network-Security-Assessment-Nmap-).
+- **Linux and SSH:** Practicing command-line tools and documenting useful commands in my [Linux, Vim, and SSH reference](https://github.com/kadibiax7/Vim-Linux-SSH-Cheat-Sheet-for-Cybersecurity-Learners).
+- **Virtual lab environments:** Setting up [Kali Linux](https://github.com/kadibiax7/VirtualBox-Kali-Linux-Home-Setup-on-Windows-11) and [Windows Server 2022](https://github.com/kadibiax7/Install-Windows-Server-2022-on-Virtual-Box-Windows-Server-2022) in VirtualBox, with the Windows Server lab in progress.
+- **Web development:** Building the [Gekian Boutique storefront](https://github.com/kadibiax7/gekian-boutique) with Next.js, TypeScript, and Tailwind CSS.
+
+<br><br>
+
 # 🛡️ Cybersecurity
 
 | Area | Project | Focus |
