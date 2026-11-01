@@ -24,18 +24,8 @@ Configured a Windows 11 endpoint to forward Security Event Logs to Splunk Enterp
 ### [Home Network Security Assessment with Nmap](https://github.com/kadibiax7/Home-Network-Security-Assessment-Nmap-)
 Used Nmap on my own home network to discover devices, scan ports, and identify services. Documented a printer exposing web administration on ports 80 and 8080 and recommended disabling the redundant interface to reduce its attack surface.
 
-### [Vim, Linux & SSH Cheat Sheet](https://github.com/kadibiax7/Vim-Linux-SSH-Cheat-Sheet-for-Cybersecurity-Learners)
-Compiled a practical reference covering SSH access, Vim editing, Linux file commands, login-log searches, and basic containment commands. Organized commands by task so learners can find the relevant command and understand its purpose.
 
-### [Kali Linux on VirtualBox — Windows 11](https://github.com/kadibiax7/VirtualBox-Kali-Linux-Home-Setup-on-Windows-11)
-Documented the installation of Kali Linux in VirtualBox, from checking hardware virtualization and allocating resources to installing the operating system and reaching the desktop. Includes screenshots and a video walkthrough to make the setup reproducible.
 
-### [Windows Server 2022 on VirtualBox](https://github.com/kadibiax7/Install-Windows-Server-2022-on-Virtual-Box-Windows-Server-2022) — In Progress
-Documented virtual machine configuration and Windows Server 2022 installation through administrator sign-in and Server Manager. Provides a foundation for further server administration practice; the wider lab remains in progress.
-
-<br><br>
-
-# 💻 Development
 
 ### [Gekian Boutique — Womenswear Storefront](https://github.com/kadibiax7/gekian-boutique) — In Development
 
