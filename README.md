@@ -16,7 +16,7 @@ Cybersecurity professional with an M.S. in Cybersecurity and CompTIA Security+ c
 Currently pursuing: Splunk Core Certified User
 <br><br>
 
-# 🛡️ Cybersecurity
+# 🛡️ Cybersecurity Projects
 
 ### [Home SOC Security Monitoring with Splunk](https://github.com/kadibiax7/Splunk-home-SOC-lab) — In Progress
 Configured a Windows 11 endpoint to forward Security Event Logs to Splunk Enterprise on Ubuntu. Used SPL to investigate failed logons and created a dashboard panel to count them. This demonstrates log collection, authentication analysis, and basic SIEM monitoring; the successful-logon panel is still in progress.
